@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">I am an aspiring web developer specializing in frontend development and automated testing. My expertise in frontend technologies allows me to design and implement responsive and interactive user interfaces. I focus on creating dynamic, user-friendly web experiences with a strong emphasis on usability and performance. Additionally, I have experience in writing automated tests to ensure the reliability and functionality of web applications. I am passionate about continuously improving my skills and staying updated with the latest trends and best practices in frontend development and testing.</h3>
+<h3 align="center">I am an aspiring IT specialist. My expertise in frontend technologies allows me to design and implement responsive and interactive user interfaces. I focus on creating dynamic, user-friendly web experiences with a strong emphasis on usability and performance. Additionally, I have experience in writing automated tests to ensure the reliability and functionality of web applications. I am passionate about continuously improving my skills and staying updated with the latest trends and best practices in frontend development and testing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=finarfin32&label=Profile%20views&color=0e75b6&style=flat" alt="finarfin32" /> </p>
 
