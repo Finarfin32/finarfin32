@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">I am an aspiring IT specialist. My expertise in frontend technologies allows me to design and implement responsive and interactive user interfaces. I focus on creating dynamic, user-friendly web experiences with a strong emphasis on usability and performance. Additionally, I have experience in writing automated tests to ensure the reliability and functionality of web applications. I am passionate about continuously improving my skills and staying updated with the latest trends and best practices in frontend development and testing.</h3>
+<h3 align="center">
+I am an IT graduate with a degree in Computer Science, with a focus on cybersecurity. I am passionate about technology and continuously improving my skill set across various areas of the IT industry. My experience includes working on personal projects. I enjoy learning new tools and technologies, and I’m open to various career paths within IT.
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=finarfin32&label=Profile%20views&color=0e75b6&style=flat" alt="finarfin32" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=finarfin32&label=Profile%20views&color=0e75b6&style=flat" alt="finarfin32" />
+</p>
 
-- 🔭 I’m currently working on [FantasyCharacterForge](https://github.com/Finarfin32/FantasyCharacterForge)
+- 🔭 I’m currently working on [FantasyCharacterForge](https://github.com/Finarfin32/FantasyCharacterForge)  
+- 🌱 I’m currently learning **REST APIs, Playwright**  
+- 📫 How to reach me: **mateuszglod97@gmail.com**  
+- 📝 Favorite quote:  
+  **"No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable." – Socrates**
 
-- 🌱 I’m currently learning **Rest API, Playwright**
-
-- 📫 How to reach me **mateuszglod97@gmail.com**
-
-- 📝 Favorite quote **"No man has the right to be an amateur in the matter of physical training. it is a shame for a man to grow old without seeing the beauty and strength of which his body is capable." - Socrates**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mateuszglodd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mateuszgłód" height="30" width="40" /></a>
 <a href="https://discord.gg/finarfinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="finarfinn" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
