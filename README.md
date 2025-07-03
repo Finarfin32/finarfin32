@@ -7,8 +7,6 @@ I am an IT graduate with a degree in Computer Science, with a focus on cybersecu
   <img src="https://komarev.com/ghpvc/?username=finarfin32&label=Profile%20views&color=0e75b6&style=flat" alt="finarfin32" />
 </p>
 
-- 🔭 I’m currently working on [FantasyCharacterForge](https://github.com/Finarfin32/FantasyCharacterForge)  
-- 🌱 I’m currently learning **REST APIs, Playwright**  
 - 📫 How to reach me: **mateuszglod97@gmail.com**  
 - 📝 Favorite quote:  
   **"No man has the right to be an amateur in the matter of physical training. It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable." – Socrates**
